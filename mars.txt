@@ -2,4 +2,4 @@ Cold and cry, but everythingis my favorite color
 The two moons may be a problem for Wolfman
 But the mummy will appreciate the lack of humidity
 We will need to manufacture out own oxygen.
-We added a different line in the other copy
+We removed the conflict on this line
